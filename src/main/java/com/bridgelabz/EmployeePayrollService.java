@@ -1,9 +1,8 @@
 package com.bridgelabz;
 
-//UC1 - Create an Employee
-//Payroll Service to Read
-//and Write Employee
-//Payroll to a Console
+//UC2 - Write a program to
+//demonstrate File
+//Operations like
 
 import java.util.ArrayList;
 import java.util.List;
